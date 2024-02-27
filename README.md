@@ -3,7 +3,7 @@
 ![image](https://github.com/aidrecabrera/square-sans/assets/61798731/63b6410a-c6f5-4398-aa7b-a6f305917d99)
 
 
-I really love this font. So, I decided to save it in my Github for personal projects!👀
+I really love this font. So, I decided to save it in my Github for personal projects! 👀
 
 Square Sans consists of two distinct styles: **Square Sans Text** and **Square Sans Display**. Each style offers different weights and variations to accommodate various design requirements.
 
