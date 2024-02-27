@@ -152,7 +152,3 @@ Make sure to include these font face declarations and Tailwind CSS configuration
     font-style: italic;
 }
 ```
-
-## Square Sans Demo
-
-![image](https://github.com/aidrecabrera/square-sans/assets/61798731/dd293d1f-9266-4509-a5c9-5a0f53d6bb8b)
