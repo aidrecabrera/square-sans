@@ -2,7 +2,6 @@
 
 ![image](https://github.com/aidrecabrera/square-sans/assets/61798731/63b6410a-c6f5-4398-aa7b-a6f305917d99)
 
-
 I really love this font. So, I decided to save it in my Github for personal projects! 👀
 
 Square Sans consists of two distinct styles: **Square Sans Text** and **Square Sans Display**. Each style offers different weights and variations to accommodate various design requirements.
@@ -24,6 +23,10 @@ Square Sans Text is optimized for readability in smaller sizes, making it ideal 
 Square Sans Display is tailored for larger sizes and headlines, enhancing visual impact. It includes the following style:
 
 - **Regular**: A versatile weight designed for headlines and prominent text.
+
+## Font Demo
+
+You can access the font demo here: [Square Sans Demo](https://aidrecabrera.github.io/square-sans/index.html)
 
 ## Font Usage
 
